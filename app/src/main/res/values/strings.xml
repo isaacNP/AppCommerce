@@ -2,4 +2,8 @@
     <string name="app_name">AppCommerce</string>
     <string name="iv_splash_logo_name">Logo AppCommerce</string>
     <string name="iv_splash_icon_name">Ícone AppCommerce</string>
+
+    <!--Tela Principal-->
+    <string name="title_categorias_populares">Categorias Populares</string>
+    <string name="titles_produtos_recentes">Produtos Recentes</string>
 </resources>
